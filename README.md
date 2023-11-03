@@ -7,7 +7,7 @@ Password Generator is a password radomizing tool that includes lowercase, upperc
 
 <p>&nbsp;</p>
 
- <p align="center"> <img width="350" height="300"  src="./images/Screenshot 2023-10-23 151403.png"/>
+ <p align="center"> <img width="350" height="300"  src=".Screenshot 2023-11-03 at 5.07.37 PM"/>
 </p>
 
 ## Use with JavaScript
