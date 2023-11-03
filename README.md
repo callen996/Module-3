@@ -1,8 +1,4 @@
 # Password Generator 
-<img align="center" src="https://badgen.net/github/license/aortega-wendzik/Password-Generator"/>&nbsp;<img align="center" src="https://badgen.net/github/branches/aortega-wendzik/Password-Generator"/>&nbsp;<img align= 
-"center" src="https://badgen.net/github/commits/aortega-wendzik/Password-Generator"/>
-<p>&nbsp;</p>
-<p>
 Password Generator is a password radomizing tool that includes lowercase, uppercase, numeric, and/or special characters to create a unique password. </p>
 
 * By selecting the "Generate Password" button, the user can create multiple password options.
@@ -15,8 +11,4 @@ Password Generator is a password radomizing tool that includes lowercase, upperc
 </p>
 
 ## Use with JavaScript
-This password generator enables the user to customize the password to include: an minimum of 8 characters to a maximum of 126 characters, to include uppercase characters and/or symbols. To view the source code:
-[View Full Documentation Here](https://github.com/aortega-wendzik/Password-Generator/blob/main/script.js)
-
-## License
-This project is licensed under the MIT license. 
+This password generator enables the user to customize the password to include: an minimum of 8 characters to a maximum of 126 characters, to include uppercase characters and/or symbols. 
